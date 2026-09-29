@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ldugay1996-cloud.github.io/Buildworld/sitemap.xml
